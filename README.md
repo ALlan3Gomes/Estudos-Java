@@ -1,2 +1,1 @@
-# Estudos-Java
-# Estudos-Java
+Um projeto para aprender Java com exemplos, exercícios e recursos práticos.
